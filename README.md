@@ -46,3 +46,8 @@ IX. Pull vs fetch
 
 1. git pull origin branchName - fetch and merge
 2. git fetch origin
+
+X. Delete branch
+
+1.Remote: git push origin -d dev
+2.Local: git branch -d dev
