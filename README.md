@@ -49,5 +49,5 @@ IX. Pull vs fetch
 
 X. Delete branch
 
-1.Remote: git push origin -d dev
-2.Local: git branch -d dev
+1.  Remote: git push origin -d dev
+2.  Local: git branch -d dev
